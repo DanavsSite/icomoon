@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?emccw4');
-  src:  url('fonts/icomoon.eot?emccw4#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?emccw4') format('truetype'),
-    url('fonts/icomoon.woff?emccw4') format('woff'),
-    url('fonts/icomoon.svg?emccw4#icomoon') format('svg');
+  src:  url('https://cdn.jsdelivr.net/gh/DanavsSite/icomoon/fonts/icomoon.eot?emccw4');
+  src:  url('https://cdn.jsdelivr.net/gh/DanavsSite/icomoon/fonts/icomoon.eot?emccw4#iefix') format('embedded-opentype'),
+    url('https://cdn.jsdelivr.net/gh/DanavsSite/icomoon/fonts/icomoon.ttf?emccw4') format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/DanavsSite/icomoon/fonts/icomoon.woff?emccw4') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/DanavsSite/icomoon/fonts/icomoon.svg?emccw4#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
